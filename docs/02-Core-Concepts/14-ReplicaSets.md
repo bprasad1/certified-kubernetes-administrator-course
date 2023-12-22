@@ -5,7 +5,8 @@ In this section, we will take a look at the below
 - Replication Controller
 - ReplicaSet
 
-#### Controllers are brain behind kubernetes
+#### Controllers are the brain behind Kubernetes
+Kubernetes Controllers are the brain behind Kubernetes. They are the processes that monitor Kubernetes objects
 
 ## What is a Replica and Why do we need a replication controller?
 
