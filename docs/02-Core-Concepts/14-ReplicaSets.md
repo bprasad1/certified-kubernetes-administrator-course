@@ -106,7 +106,8 @@ In this section, we will take a look at the below
     ![rs1](../../images/rs1.PNG)
     
 ## Labels and Selectors
-#### What is the deal with Labels and Selectors? Why do we label pods and objects in kubernetes?
+Now, how does the Replica Set know what pods to monitor? There could be hundreds of other pods in the cluster running different applications.
+This is where labeling our pods during creation comes in handy.
 
   ![labels](../../images/labels.PNG)
   
